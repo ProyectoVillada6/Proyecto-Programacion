@@ -1,2 +1,2 @@
 # Proyecto-Programacion
-Blog de Peliculas
+Blog de Juegos
