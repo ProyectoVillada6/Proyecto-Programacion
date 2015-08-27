@@ -47,3 +47,5 @@ Caso de uso 3.a > Carga correcta del comentario.
 
 Caso de uso 3.b > Fallo en postear el comentario.
 >>Al momento de postear el juego el usuario se encuentra con un cartel emergente, el cual le informara de que el comentario no se pudo realizar , indicando el fallo.
+
+![Texto Alternativo](C:\Users\Santiago Vergara\Pictures\08A.jgp "Título Opcional")
